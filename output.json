@@ -1,0 +1,11 @@
+{
+    "incident_id": "INC-88201",
+    "equipment_name": "High-Pressure Boiler Unit #4",
+    "failure_type": "overheating",
+    "severity": "CRITICAL",
+    "affected_subsystems": [
+        "primary coolant intake loop",
+        "pressure relief valve B"
+    ],
+    "recommended_action": "replace intake seals and shutdown"
+}
